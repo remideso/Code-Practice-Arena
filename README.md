@@ -1,5 +1,7 @@
 # Code Practice Arena
 
+<a href="https://remideso.github.io/Code-Practice-Arena/" target="_blank">Code Practice Arena</a>
+
 A browser-based practice website containing 150 verified coding exercises:
 
 - 50 Python exercises
